@@ -1,13 +1,20 @@
-This workshop aims to introduce you to ink! &mdash; the native smart contracting language for the Polkadot ecosystem &mdash; by completing a series of quests.
+![](./assets/blockspace-logo.png)
 
-Use this repository for installation instructions and to submit your proof of quests.
-To submit your proof of quests, simply clone this repo and make a PR to the `submissions` folder containing details on the quests you've completed including screenshots.
+This workshop aims to introduce you to [ink!](https://use.ink/), the native smart contracting language for the [Polkadot](https://polkadot.network/) ecosystem, by completing a series of hands-on quests.
+Use this repository to refer to installation instructions and to submit your proof of quests.
 
-Your workshop facilitator will provide you with a feedback form where you will need to provide a link to your submission PR to be eligible for quest rewards.
 
-## Setup your environment
+> 🔎 To submit your proof of quest, simply clone this repo and make a PR to the `submissions` folder titled `Quest submission: {your name,} {date}` containing a short summary of the quests you've completed. Include screenshots if relevant and a reviewer will verify your submission.
 
-**Step 1: Make sure you have Rust installed on your machine**
+Your workshop facilitator will provide you with a feedback form where, once you provide some feebdack, you can provide a link to your submission PR to be eligible for quest rewards. 😎
+
+## 📃 Workshop link
+
+https://hackmd.io/@webzero/contracts-workshop
+
+## 🧑‍💻 Setup your environment
+
+**Step 1: Make sure you have Rust installed on your machine 🦀**
 
 Run: 
 
@@ -17,7 +24,7 @@ curl https://sh.rustup.rs -sSf | sh
 
 Or visit for more details: https://doc.rust-lang.org/cargo/getting-started/installation.html
 
-**Step 2: Install cargo-contract**
+**Step 2: Install cargo-contract 🪶**
 
 Check that you're properly setup:
 
@@ -54,3 +61,5 @@ Options:
   -h, --help     Print help
   -V, --version  Print version
 ```
+
+Now you're ready to get hacking ! 🚀
