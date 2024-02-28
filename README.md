@@ -19,7 +19,7 @@ curl https://sh.rustup.rs -sSf | sh
 
 Or visit for more details: https://doc.rust-lang.org/cargo/getting-started/installation.html
 
-**Step 2: Install cargo-contract 🪶**
+**Step 2: [Install cargo-contract](https://github.com/paritytech/cargo-contract) 🪶**
 
 Check that you're properly setup:
 
