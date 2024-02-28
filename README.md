@@ -3,11 +3,6 @@
 This workshop aims to introduce you to [ink!](https://use.ink/), the native smart contracting language for the [Polkadot](https://polkadot.network/) ecosystem, by completing a series of hands-on quests.
 Use this repository to refer to installation instructions and to submit your proof of quests.
 
-
-> 🔎 To submit your proof of quest, simply clone this repo and make a PR to the `submissions` folder titled `Quest submission: {your name,} {date}` containing a short summary of the quests you've completed. Include screenshots if relevant and a reviewer will verify your submission.
-
-Your workshop facilitator will provide you with a feedback form where, once you provide some feebdack, you can provide a link to your submission PR to be eligible for quest rewards. 😎
-
 ## 📃 Workshop link
 
 https://hackmd.io/@webzero/contracts-workshop
@@ -63,3 +58,13 @@ Options:
 ```
 
 Now you're ready to get hacking ! 🚀
+
+## 🎒 Workshop quests
+
+> 🔎 To submit your proof of quest, simply clone this repo and make a PR to the `submissions` folder titled `Quest submission: {your name,} {date}` containing a short summary of the quests you've completed. Include screenshots if relevant and a reviewer will verify your submission.
+
+Your proof of quest PR should create a new folder in the `submissions` folder with your name or pseudonym and contain:
+1. A screenshot of your terminal after running `cargo contract build`.
+2. A screenshot of the Contracts UI showing the event you created being emitted. 
+
+Your workshop facilitator will provide you with a feedback form where, once you provide some feebdack, you can provide a link to your submission PR to be eligible for quest rewards. 😎
