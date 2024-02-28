@@ -65,6 +65,8 @@ Now you're ready to get hacking ! 🚀
 
 Your proof of quest PR should create a new folder in the `submissions` folder with your name or pseudonym and contain:
 1. A screenshot of your terminal after running `cargo contract build`.
-2. A screenshot of the Contracts UI showing the event you created being emitted. 
+2. A screenshot of the Contracts UI showing the event you created being emitted.
+
+Have a look at [this example](https://github.com/JoinWebZero/contracts-workshop/pull/1) for reference.
 
 Your workshop facilitator will provide you with a feedback form where, once you provide some feebdack, you can provide a link to your submission PR to be eligible for quest rewards. 😎
